@@ -4,7 +4,7 @@
 MSc Supply Chain Analytics Capstone (First Class Honours, ATU Letterkenny, 2025–2026)
 
 ### Overview
-Built a scalable Python simulation to optimize routes under regulatory constraints, fuel volatility, and performance targets. Delivered insights on costs (~$9.5M scale), emissions, efficiency, and compliance penalties (~$1.76M–$1.88M avoided).
+Built a scalable Python simulation to optimize routes under regulatory constraints, fuel volatility, and performance targets. Delivered insights on costs (roughly $9.5M scale), emissions, efficiency, and compliance penalties (~$1.76M–$1.88M avoided).
 
 Key features:
 - ETL/ELT workflows with Pandas/NumPy for large datasets
